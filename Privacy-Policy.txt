@@ -1,9 +1,8 @@
 Privacy Policy
 
-Google Ads Privacy Policy: https://policies.google.com/technologies/ads
 Unity Ads Privacy Policy: https://unity3d.com/legal/privacy-policy
 
 This privacy policy may be updated from time to time. Any updates to this privacy policy will be available here. You are advised to consult this privacy policy regularly for any changes, as continued use of this app is deemed approval of all changes.
 
 What information is obtained and how is it used?
-No additional information is obtained outside of the information collected by Google and Unity via their advertisements. Please refer to their privacy policies for a comprehensive list of all information they collect.
+No additional information is obtained outside of the information collected by Unity via their advertisements. Please refer to their privacy policy for a comprehensive list of all information they collect.
